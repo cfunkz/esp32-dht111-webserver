@@ -22,7 +22,7 @@ Arduino IDE ESP32 DHT11 Sensor Humidity/Temperature readings with a local webser
 
 | RGB Led  | ESP32 |
 | ------------- | ------------- |
-| GND  | GND  |
+| -  | GND  |
 | RED  | GPIO4  |
 | GREEN  | GPIO2  |
 | BLUE  | GPIO15  |
